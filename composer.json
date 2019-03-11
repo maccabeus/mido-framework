@@ -1,0 +1,15 @@
+{
+  "name": "Mlisoft Technology/ Mido",
+  "description": "A lightweight PHP Framework",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Anthony Adeniyi",
+      "email": "anthony.a@mido.org"
+    }
+  ],
+"require": {
+        "php": "^5.2",
+    }
+}
